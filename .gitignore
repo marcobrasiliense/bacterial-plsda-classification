@@ -38,7 +38,7 @@ venv.bak/
 .config/
 drive/
 
-# Dataset / Data files (opcional: desmarcar se quiser subir o dataset público)
+# Dataset
 # *.csv
 # *.xlsx
 
